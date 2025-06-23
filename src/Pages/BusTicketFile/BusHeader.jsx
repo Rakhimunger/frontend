@@ -64,7 +64,7 @@ const BusHeader = () => {
       </div>
 
       {/* ========= Bus Animation ========= */}
-      <div>
+      <div className="hidden sm:block">
         <BusAnimation />
       </div>
     </div>

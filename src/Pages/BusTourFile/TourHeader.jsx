@@ -1,6 +1,6 @@
 import React from "react";
 import Tajmahal from "../../assets/images/Tajmahal.jpg";
-import BusAnimation from "../Bus/BusAnimation";
+// import BusAnimation from "../Bus/BusAnimation";
 
 const BusHeader = () => {
   return (
